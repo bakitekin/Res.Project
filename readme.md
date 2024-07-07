@@ -16,3 +16,6 @@ Bu proje, basit bir restoran web sitesi şablonunu içermektedir. Web sitesi, an
 
 <img src="rest.gif">
 # Res.Project
+
+
+evet gercektne oldu...
